@@ -1,0 +1,19 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: arm64 x86_64
+mac: false
+description: Ti.Apple.Intelligence
+author: Douglas Alves
+license: Specify your license
+copyright: Copyright (c) 2025 by Your Company
+
+# these should not be edited
+name: Ti.Apple.Intelligence
+moduleid: ti.apple.intelligence
+guid: 12095e4e-ffe8-49ad-95c6-f33e95b8b0e8
+platform: iphone
+minsdk: 13.0.1.GA

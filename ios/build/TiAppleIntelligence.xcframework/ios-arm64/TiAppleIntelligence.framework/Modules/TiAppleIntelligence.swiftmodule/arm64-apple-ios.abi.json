@@ -1,0 +1,92 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TiAppleIntelligence",
+    "printedName": "TiAppleIntelligence",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "TiAppleIntelligence",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "TitaniumKit",
+        "printedName": "TitaniumKit",
+        "declKind": "Import",
+        "moduleName": "TiAppleIntelligence"
+      },
+      {
+        "kind": "Import",
+        "name": "FoundationModels",
+        "printedName": "FoundationModels",
+        "declKind": "Import",
+        "moduleName": "TiAppleIntelligence"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/douglas\/Documents\/Modules\/Ti.Apple.Intelligence\/ios\/Classes\/TiAppleIntelligenceModule.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1355,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/douglas\/Documents\/Modules\/Ti.Apple.Intelligence\/ios\/Classes\/TiAppleIntelligenceModule.swift",
+      "kind": "Dictionary",
+      "offset": 1577,
+      "length": 38,
+      "value": "[(\"available\", true), (\"reason\", \"ready\")]"
+    },
+    {
+      "filePath": "\/Users\/douglas\/Documents\/Modules\/Ti.Apple.Intelligence\/ios\/Classes\/TiAppleIntelligenceModule.swift",
+      "kind": "StringLiteral",
+      "offset": 1818,
+      "length": 29,
+      "value": "\"apple_intelligence_disabled\""
+    },
+    {
+      "filePath": "\/Users\/douglas\/Documents\/Modules\/Ti.Apple.Intelligence\/ios\/Classes\/TiAppleIntelligenceModule.swift",
+      "kind": "StringLiteral",
+      "offset": 1924,
+      "length": 21,
+      "value": "\"device_not_eligible\""
+    },
+    {
+      "filePath": "\/Users\/douglas\/Documents\/Modules\/Ti.Apple.Intelligence\/ios\/Classes\/TiAppleIntelligenceModule.swift",
+      "kind": "StringLiteral",
+      "offset": 2018,
+      "length": 19,
+      "value": "\"model_downloading\""
+    },
+    {
+      "filePath": "\/Users\/douglas\/Documents\/Modules\/Ti.Apple.Intelligence\/ios\/Classes\/TiAppleIntelligenceModule.swift",
+      "kind": "StringLiteral",
+      "offset": 2107,
+      "length": 9,
+      "value": "\"unknown\""
+    },
+    {
+      "filePath": "\/Users\/douglas\/Documents\/Modules\/Ti.Apple.Intelligence\/ios\/Classes\/TiAppleIntelligenceModule.swift",
+      "kind": "StringLiteral",
+      "offset": 2179,
+      "length": 8,
+      "value": "\"reason\""
+    },
+    {
+      "filePath": "\/Users\/douglas\/Documents\/Modules\/Ti.Apple.Intelligence\/ios\/Classes\/TiAppleIntelligenceModule.swift",
+      "kind": "Dictionary",
+      "offset": 2242,
+      "length": 53,
+      "value": "[(\"available\", false), (\"reason\", \"ios_version_too_low\")]"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+framework module TiAppleIntelligence {
+  umbrella header "TiAppleIntelligence.h"
+  export *
+
+  module * { export * }
+}
+
+module TiAppleIntelligence.Swift {
+  header "TiAppleIntelligence-Swift.h"
+  requires objc
+}
