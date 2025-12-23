@@ -1,7 +1,7 @@
-# Apple Intelligence for Titanium SDK - Documentation Index
+#  Apple Intelligence for Titanium SDK - Complete Documentation Index
 
 
-## 📖 Documentation Files
+##  Documentation Files
 
 ### 🎯 Main Documentation
 
@@ -9,18 +9,18 @@
 |------|-------------|----------|
 | **README.md** | Complete module overview, installation, configuration, and quick start |
 
-### 🔧 Technical Guides / Guias Técnicos
+### 🔧 Technical Guides
 
 | File | Description | Language |
 |------|-------------|----------|
-| **STRUCTURED-GENERATION-GUIDE-EN.md** | Complete guide to @Generable types and dynamic schemas | 🇺🇸 EN |
-| **TITANIUM-PROPERTIES-VS-METHODS-EN.md** | Understanding Titanium module conventions | 🇺🇸 EN |
+| **[STRUCTURED-GENERATION-GUIDE-EN.md](https://github.com/deckameron/Apple-Intelligence-for-Titanium-SDK/blob/main/documentation/STRUCTURED-GENERATION-GUIDE-EN.md)** | Complete guide to @Generable types and dynamic schemas |
+| **[TITANIUM-PROPERTIES-VS-METHODS-EN.md](https://github.com/deckameron/Apple-Intelligence-for-Titanium-SDK/blob/main/documentation/TITANIUM-PROPERTIES-VS-METHODS-EN.md)** | Understanding Titanium module conventions |
 
-### 🆘 Troubleshooting / Resolução de Problemas
+### 🆘 Troubleshooting
 
 | File | Description | Language |
 |------|-------------|----------|
-| **TROUBLESHOOTING-ERROR-1-EN.md** | Solving the common GenerationError -1 | 🇺🇸 EN |
+| **[TROUBLESHOOTING-ERROR-1-EN.md](https://github.com/deckameron/Apple-Intelligence-for-Titanium-SDK/blob/main/documentation/TROUBLESHOOTING-ERROR-1-EN.md)** | Solving the common GenerationError -1 |
 
 ---
 

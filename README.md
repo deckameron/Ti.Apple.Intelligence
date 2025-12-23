@@ -297,6 +297,14 @@ console.log(JSON.stringify(diag, null, 2));
 
 ##  Documentation
 
+### Included files:
+
+| File | Description |
+|---------|-----------|
+| [`STRUCTURED-GENERATION-GUIDE.md`](https://github.com/deckameron/Apple-Intelligence-for-Titanium-SDK/blob/main/documentation/STRUCTURED-GENERATION-GUIDE-EN.md) | Complete schema guide |
+| [`TITANIUM-PROPERTIES-VS-METHODS.md`](https://github.com/deckameron/Apple-Intelligence-for-Titanium-SDK/blob/main/documentation/TITANIUM-PROPERTIES-VS-METHODS-EN.md) | Understanding Titanium conventions |
+| [`TROUBLESHOOTING-ERROR-1.md`](https://github.com/deckameron/Apple-Intelligence-for-Titanium-SDK/blob/main/documentation/TROUBLESHOOTING-ERROR-1-EN.md) | Solving GenerationError -1 |
+
 ### API Reference
 
 #### Properties
