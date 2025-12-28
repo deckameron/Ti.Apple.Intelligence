@@ -164,22 +164,22 @@ function exampleArticleAnalysis() {
         callback: (result) => {
             if (result.success) {
                 console.log('=== COMPLETE ANALYSIS ===');
-                console.log('Title:', result.data.titulo);
-                console.log('Summary:', result.data.resumo);
-                console.log('Sentiment:', result.data.sentimento);
+                console.log('Title:', result.data.title);
+                console.log('Summary:', result.data.summary);
+                console.log('Sentiment:', result.data.sentiment);
                 console.log('Key points:');
                 result.data.pontosChave.forEach((point, i) => {
                     console.log(`  ${i + 1}. ${point}`);
                 });
-                console.log('Topics:', result.data.topicos.join(', '));
+                console.log('Topics:', result.data.topics.join(', '));
                 
                 // Returned structure:
                 // {
-                //     titulo: String,
-                //     resumo: String,
-                //     pontosChave: [String],
-                //     sentimento: 'positivo'|'neutro'|'negativo'|'misto',
-                //     topicos: [String]
+                //     title: String,
+                //     summary: String,
+                //     keyPoints: [String],
+                //     sentiment: 'positivo'|'neutro'|'negativo'|'misto',
+                //     topics: [String]
                 // }
             }
         }
@@ -221,10 +221,10 @@ function exampleContactExtraction() {
                 // {
                 //     contatos: [
                 //         {
-                //             nome: String,
+                //             name: String,
                 //             email?: String,
-                //             telefone?: String,
-                //             empresa?: String
+                //             phone?: String,
+                //             company?: String
                 //         }
                 //     ]
                 // }
@@ -260,9 +260,9 @@ function exampleClassification() {
                 
                 // Returned structure:
                 // {
-                //     categoria: String (one of the provided categories),
-                //     confianca: Number (0.0 to 1.0),
-                //     explicacao: String
+                //     category: String (one of the provided categories),
+                //     confidence: Number (0.0 to 1.0),
+                //     explanation: String
                 // }
             }
         }
